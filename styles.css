@@ -314,6 +314,7 @@ header {
   color: white;
   height: 110vh;
   padding-top: 100px;
+  margin-bottom: 200px;
 }
 
 .experience .container {
@@ -447,7 +448,6 @@ header {
 
 .projects {
   color: white;
-  height: 100vh;
 }
 
 .projects .container {
